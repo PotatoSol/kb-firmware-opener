@@ -1,5 +1,3 @@
-#r'C:\WINDOWS\system32\notepad.exe'
-
 import subprocess
 import time
 import pyautogui
